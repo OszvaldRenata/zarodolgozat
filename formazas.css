@@ -1,0 +1,182 @@
+body
+{
+	background-image: url(images/hatter2.jpg);
+	background-size: 2000px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+}
+
+textarea
+{
+	resize: none;
+	box-shadow: 1px 1px 2px 1px black;
+}
+
+button
+{
+	box-shadow: 1px 1px 2px 1px black;
+}
+
+input
+{
+	box-shadow: 1px 1px 2px 1px black;
+}
+
+h2
+{
+	color: black;
+}
+
+h3
+{
+	color: black;
+}
+
+h4
+{
+	color: black;
+}
+
+nav
+{
+	opacity: 0.8;
+}
+
+.container
+{
+	background-color: #496B27; 
+	height: 100%
+}
+
+.hirdetesek
+{
+	background-color: #51772B;
+	
+}
+
+.bejegyzesek
+{
+	background-color: #51772B;
+}
+
+.sajathirdetesek
+{
+	background-color: #51772B;
+}
+
+.hozzaszolas
+{
+	padding-bottom: 50px;
+	color: white;
+	background-color: #51772B;
+	;
+}
+
+
+.navbar
+{
+	background-color: #202020 !important;
+
+}
+
+.fejlec
+{
+
+	background: linear-gradient(to left, #003300 53%, #496B27 110%);
+	
+}
+.fszoveg
+{
+	color: #e0e0e0;
+	font-size: 60px;
+	text-shadow: 5px 5px 8px black;
+	font-family: fantasy;
+
+}
+
+.lablec
+{
+	background: linear-gradient(to left, #003300 53%, #496B27 110%);
+	color: white;
+}
+
+.nav-link
+{
+	font-family: Goudly Old Style;
+	font-size: 20px;
+
+}
+.btnuzenni
+{
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+}
+
+.regfelulet
+{
+	max-width: 300px;
+}
+
+
+
+.katgomb
+{
+	background: url(images/button.jpg);
+	color: white;
+	font-size: 20px;
+	display: inline-block;
+	padding: 24px 90px;
+	margin-top: 4px;
+	text-shadow: 3px 6px 6px grey;
+}
+
+.alapszoveg
+{
+	font-size: 16px;
+	color: black;
+}
+
+.cimszoveg
+{
+	font-size: 20px;
+	color: black;
+}
+
+.bejegyzesgomb
+{
+	background: url(images/button1.jpg);
+	color: black;
+	font-size: 22px;
+	display: inline-block;
+	padding: 24px 90px;
+	margin-top: 4px;
+	font-family: Comic Sans MS;
+	text-shadow: 3px 6px 6px black;
+}
+
+.hszoveg
+{
+	overflow: auto;
+}
+
+a
+{
+	color: white;
+}
+a:hover
+{
+	color: white;
+}
+a:active
+{
+	
+}
+a:visited
+{
+
+}
+
+
+
